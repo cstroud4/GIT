@@ -1,2 +1,3 @@
 # GIT
-Practice
+Practice does
+not make us perfect
